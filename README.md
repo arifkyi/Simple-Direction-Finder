@@ -1,5 +1,5 @@
 # Simple Direction Finder
-It's just small, very ordinary script for the youtube content to simulate direction finder
+It's just small, very ordinary PERL script for the youtube content to simulate direction finder
 
 For this link in youtube
 
